@@ -50,4 +50,7 @@ Our paper has been accepted by TGRS.
   │    │    ├── train.txt
   │    │    │── test.txt
 ```
+## Special thanks：
+This code is highly borrowed from [SCT](https://github.com/xdFai/SCTransNet).Thanks to Shuai Yuan.
+This code is highly borrowed from [FLRSeg](https://github.com/YangLeiSX/FLRSeg).Thanks to Lei Yang.
 
