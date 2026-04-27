@@ -51,6 +51,6 @@ Our paper has been accepted by TGRS.
   │    │    │── test.txt
 ```
 ## Special thanks：
-This code is highly borrowed from [SCT](https://github.com/xdFai/SCTransNet).Thanks to Shuai Yuan.
+This code is highly borrowed from [SCT](https://github.com/xdFai/SCTransNet).Thanks to Shuai Yuan.<br>
 This code is highly borrowed from [FLRSeg](https://github.com/YangLeiSX/FLRSeg).Thanks to Lei Yang.
 
